@@ -425,6 +425,7 @@ rover, but does include any items deployed by the rover such as sub-rovers, came
 communication relays.
 - For each event in which the rover is overweight, the team shall be assessed a penalty
 of 5% of the points scored, per kilogram over 50.  
+
 **3.a.iv.** Rovers shall utilize power and propulsion systems that are applicable to operations on
 Mars. Air-breathing systems are not permitted: No power or propulsion system may
 ingest ambient air for the purpose of combustion or other chemical reaction that yields
@@ -436,7 +437,8 @@ cease all power draw from batteries in the event of an emergency such as a batte
 away from moving parts in an obvious and unobstructed place on the rover.
 - Teams are also strongly encouraged to implement a “heartbeat” monitor onboard the
 rover that prevents an uncontrolled runaway rover if communications with the control
-station are lost.
+station are lost.  
+
 ### 3.b. Communications Equipment
 **3.b.i.** The rover shall be operated remotely using wireless communications with no time delay.
 The operators will not be able to directly view the rover or the site, and line-of-sight
