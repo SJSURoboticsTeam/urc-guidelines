@@ -91,7 +91,7 @@ Sample(s) may return the full depth including the topsoil but teams must be able
 distinguish the soil depth for any sample. **The portion of the sample from below 10 cm
 will be used to determine the sample mass.
 1.b.vi.** After collection of the sample, the rover must then store and seal it in a cache container
-onboard the rover, and return the sealed cache to the command station.
+onboard the rover, and return the sealed cache to the command station.  
 **1.b.vii. Onboard equipment at a minimum should include a science capability of the team’s
 choice to accomplish the task goals (life detection method for example) and also test
 the soil moisture (relative humidity) and subsurface temperature at least 10 cm
@@ -202,16 +202,16 @@ The spotter may only intervene in the event of potentially unsafe operation, and
 participate in the mission. The spotter is required to ensure safe flight of the drone, and shall ensure that 
 the drone keeps a safe distance from all people and structures during flight. At the judges’ discretion, a spotter’s intervention
 with the drone will count as a “kill switch.” In this case the drone will not be permitted
-to continue on the mission, but the rover can.
+to continue on the mission, but the rover can.  
 **1.d.vii.** To simulate flight on Mars the drone must carry a dummy (inert) mass of the same
 weight as the battery. The dummy mass and battery must be easy to remove for
 weighing. In the event of high winds (>24 kph/15 mph), the dummy mass
-requirement will be waived.
+requirement will be waived.  
 **1.d.viii.** Drones should be able to operate in a 48 kph/30 mph wind. This requires a top speed
 of least 64 kph/40 mph for safe operation. Teams may fly their drone in any wind speeds
 they feel confident it can handle. Teams should expect highly variable wind conditions
 throughout URC, and are not guaranteed that they will be scheduled during a period of
-low wind.
+low wind.  
 **1.d.ix.** Drones may take off from either the rover or the control station at any time. Teams must
 announce when the drone is being launched for safety purposes. The drone may land in
 any safe location that does not interfere with the course (such as on an astronaut).
@@ -342,7 +342,7 @@ test in town or at other nearby sites where off-road vehicles are allowed (such 
 Factory Butte Special Recreation Management Area), but must follow local regulations
 regarding off-road activity. Land controlled by the Bureau of Land Management, that is
 not specifically designated for off-road use, is strictly not allowed for any URC
-purposes.
+purposes.  
 **2.b.v.** The Global Navigation Satellite System (GNSS) standard shall be the WGS 84 datum.
 Coordinates will be provided in latitude/longitude format (e.g. decimal degrees; degrees
 decimal minutes; degrees minutes seconds).
@@ -351,19 +351,19 @@ decimal minutes; degrees minutes seconds).
 enrolled at least half-time in a degree or high school diploma granting course. Students
 from multiple universities may compete on the same team. A single university may field
 multiple rovers and multiple teams, however there may be no overlap between team
-members, budget, donated equipment, or purchased equipment.
+members, budget, donated equipment, or purchased equipment.  
 **2.c.ii.** Teams are encouraged to work with advisors. Advisors should limit their involvement to
 academic level advising only. Nontechnical management duties, including tracking
 finances, registration, submission of deliverables, and communication with URC staff,
 fall within the duties of the students. Advisors can spectate from the field, but may not
-spectate from within the control station.
+spectate from within the control station.  
 **2.c.iii.** All team members operating the rover must remain in the designated operators’ area.
 Nobody may follow alongside the rover for the purpose of providing feedback to the
 operators. Members of the judging team, media, non-operator team members, and other
 spectators may only follow a rover at the judges' discretion. Team members following
 the rover may participate as runners in accordance with Section 3.d, or activate an
 emergency kill switch (in the event of an emergency), but may not otherwise participate
-in that mission.
+in that mission.  
 **2.c.iv.** It is incumbent upon the student team leaders to ensure that their respective teams
 uphold the integrity of this competition.
 
@@ -373,29 +373,29 @@ expense record no later than May 22, 2024 (if necessary, teams may submit an upd
 record on the first day of the URC event – May 29, 2024). Teams shall be penalized 10%
 of total points per day if they are late in submitting the expense report, and will be
 disqualified for not submitting their expense report by the end of the URC event (June 1,
-2024).
+2024).  
 **2.d.ii.** The maximum allowable cash budget to be spent on the project is **$22,000 US** , which
 shall include components for the rover, rover modules, rover power sources, rover
 communications equipment, and base station equipment including the antenna and
 transceiver, and all command and control equipment (i.e. base station computers,
-monitors, controllers, etc.).
+monitors, controllers, etc.).  
 **2.d.iii.** The Director may allow certain sponsorships that are available to all teams to count as an
-extension of the budget limit.
+extension of the budget limit.  
 **2.d.iv.** The budget limit shall not apply to travel expenses, tools, prototype parts not used on the
-fielded rover, and spare parts that can be replaced one-for-one in the case of damage to the original.
+fielded rover, and spare parts that can be replaced one-for-one in the case of damage to the original.  
 **2.d.v.** If used equipment is purchased commercially the as-bought price may be used. Re-used
 equipment from prior competitions must be valued at either the original as-bought cost,
-or the current cost for a new version of the same or equivalent item.
-**2.d.vi.** Any equipment rented must be valued at purchase cost (new or used).
+or the current cost for a new version of the same or equivalent item.  
+**2.d.vi.** Any equipment rented must be valued at purchase cost (new or used).  
 **2.d.vii.** Shipping and taxes must be included in the cost since these are a standard part of the cost
-of any item.
+of any item.  
 **2.d.viii.** Corporate sponsorship is encouraged. If equipment or services are donated to the team
 either free or at reduced cost, the full cost of a new or second-hand component must be
 used. Donations must be documented by the donor, but teams may use the cheapest rate
-commercially available for the same equipment or service.
+commercially available for the same equipment or service.  
 **2.d.ix.** Non-US teams have an allowable budget equivalent to $22,000 US based on the most
 advantageous documented currency conversion rate between August 1, 2023 and May
-22, 2024.
+22, 2024.  
 **2.d.x.** Teams may be required to submit receipts as proof of budget upon request.
 
 ## 3. Rover Rules
@@ -405,14 +405,14 @@ advantageous documented currency conversion rate between August 1, 2023 and May
 communications are not allowed. A single rover carrying all deployable items (except
 the drone) must leave the designated start gate. In the open field, the rover may deploy
 any number of smaller sub-platforms, so long as the combined master/slave sub-
-platforms meet all additional requirements published.
+platforms meet all additional requirements published.  
 **3.a.ii.** Rovers shall be weighed by the judges during the set-up time of each mission. For
 weighing the rover **must fit completely within a 1.2 m x 1.2 m x 1.2m box**. Rovers
 may be placed in any orientation, and articulate/fold/bend to fit within the “transport
 crate,” but may not be disassembled to do so. This includes wheels, antenna, and any
 other system protruding from the rover. **Failure to fit within the specified dimensions
 at weigh-in will result in a 40% penalty. After weighing, rovers may unfold/expand
-to any size.
+to any size.  
 **3.a.iii.** The maximum allowable mass of the rover when deployed for any competition mission
 is **50 kg**. The total mass of all fielded rover parts for all events is **70 kg**. For example, a
 modular rover may have a robotic arm and a science module that are never on the rover
@@ -423,11 +423,11 @@ than 70 kg.
 rover, but does include any items deployed by the rover such as sub-rovers, cameras,
 communication relays.
 - For each event in which the rover is overweight, the team shall be assessed a penalty
-of 5% of the points scored, per kilogram over 50.
+of 5% of the points scored, per kilogram over 50.  
 **3.a.iv.** Rovers shall utilize power and propulsion systems that are applicable to operations on
 Mars. Air-breathing systems are not permitted: No power or propulsion system may
 ingest ambient air for the purpose of combustion or other chemical reaction that yields
-energy.
+energy.  
 **3.a.v.** **All rovers shall have a “kill switch” that is readily visible and accessible on the
 exterior of the rover.** This switch shall immediately stop the rover’s movement and
 cease all power draw from batteries in the event of an emergency such as a battery fire.
@@ -442,20 +442,20 @@ The operators will not be able to directly view the rover or the site, and line-
 communications are not guaranteed for all of the missions. Normal wireless internet is
 not available in the field or at MDRS, and use of satellite internet is not allowed. Teams
 are required to power down communications equipment at the event sites while not
-competing, so as not to interfere with other teams.
+competing, so as not to interfere with other teams.  
 **3.b.ii.** Wireless communication methods used by teams shall adhere to all applicable FCC
 (United States Federal Communications Commission) standards and regulations. Teams
 must submit details regarding communication devices and operator licenses (when
 applicable) no later than Friday, May 3, 2024. Team members are permitted to obtain
 and utilize any relevant licenses, but must document the license, applicable regulations,
 and devices as part of the communications documentation deadline. Teams must notify
-the URC Director immediately of any changes after this date.
+the URC Director immediately of any changes after this date.  
 **3.b.iii.** Both omnidirectional and directional antennae are allowed, but communications
 equipment must not rely on the team’s ability to watch and track the rover first hand.
 Steered directional antennae may use a mechanized antenna mounted outside that is
 controlled via an electronic signal from the command station. Signal strength, relayed
 GNSS, or other strategies may be used to give feedback on antenna direction, but it is
-not allowed to mount a camera on top of the antenna for visual feedback.
+not allowed to mount a camera on top of the antenna for visual feedback.  
 **3.b.iv.** **Base station antenna height is limited to 3m** , and shall adhere to all applicable
 regulations. Any antennae must be documented as part of the communications
 documentation submitted by May 3, 2024. Antenna bases must be located within 5
@@ -468,14 +468,14 @@ at least 25m of communications cable** to deal with this scenario.
 
 ### 3.c. Restrictions on the 900 MHz and 2.4GHz bands
 Teams must notify the organizers of the communications standards they will be using, including
-frequency bands and channels, by May 3, 2024.
+frequency bands and channels, by May 3, 2024.  
 **3.c.i.** 900 MHz frequency band (902-928 MHz): Teams shall not use frequency bandwidths
 greater than 8 MHz. **Teams must also be able to operate exclusively within each of
 the following three sub-bands: "900-Low" (902-910 MHz), "900-Mid" (911- 919
 MHz), and "900-High" (920-928 MHz). The competition schedule will notify teams
 which sub-band may be used for each mission, and teams must be able to shift to
 another sub-band as required.** There is no limit on the number of 900 MHz channels a
-team uses, so long as they are all within the designated sub-band.
+team uses, so long as they are all within the designated sub-band.  
 **3.c.ii.** **2.4 GHz frequency band (2.400-2.4835 GHz): Teams shall use center frequencies
 that correspond to channels 1-11 of the IEEE (Institute of Electrical and
 Electronics Engineers) 802.11 standard for 2.4 GHz.** Teams shall not use frequency
@@ -483,21 +483,21 @@ bandwidths greater than 22 MHz. The competition schedule will notify teams which
 channels may be used for each mission, and teams must be able to shift to other
 channels as required. Teams shall be limited to using no more than three channels
 in the 2.4 GHz band. Teams using wifi (802.11) must learn how to manually set the
-channel on their equipment.
+channel on their equipment.  
 **3.c.iii.** These restrictions apply to both the command station and rover communications.
 This includes (but is not limited to) Bluetooth devices and any local wireless
 network (i.e. LAN) between devices at the command station, onboard the rover, or
 between the command station and rover. Communications with a drone shall also
-follow these restrictions.
+follow these restrictions.  
 **3.c.iv.** Teams may use spread spectrum or narrowband (fixed channel allocation) within the
-sub-band limits as they fit.
+sub-band limits as they fit.  
 **3.c.v.** There will be spectrum monitoring on-site to ensure that teams are not interfering with
 channels outside those allotted. Teams should anticipate being within signal range of
 other teams operating on different 900 MHz sub-bands and different 2.4GHz channels
 and be able to operate their rover under these conditions. Teams must also be able to
 deconflict communications as specified above (URC judges will mediate as necessary).
 Beyond this requirement a 0.5 km minimum separation between competition areas will
-be guaranteed, which will include large terrain barriers.
+be guaranteed, which will include large terrain barriers.  
 **3.c.vi.** Teams are allowed and highly encouraged to operate in bands outside of 900 MHz and
 2.4 GHz and are also encouraged to obtain ham radio licenses to allow operation on less
 used bands., However, in the event of interference outside of 900 MHz and 2.4 GHz,
@@ -514,29 +514,29 @@ of team members who may go to repair or retrieve the rover (hereafter referred t
 “runners”). Spectating team members may be asked to act as runners, and also rover
 operators may leave the command station and become runners. Spectating team
 members may carry tools and the command station may radio out to them to request an
-intervention.
+intervention.  
 **3.d.ii.** If a spectating team member intervenes with the rover without request from the
 operators, it counts as an emergency stop.** This is allowed such as to rescue the rover
 to prevent a fall or a fire. The current mission will be considered terminated although the
 rover may compete in other subsequent missions. All points earned in a mission to this
 point are preserved, and in the Science Mission teams may still conduct their field
-briefing.
+briefing.  
 **3.d.iii. If a team member leaves the command station to become a runner they will not be
 permitted to return to the command station** to participate in operating the rover, or
 analysis of any data, after this point for the current mission. Runners will still be
-permitted to retrieve or repair the rover in future interventions.
+permitted to retrieve or repair the rover in future interventions.  
 **3.d.iv.** Runners may fix the rover in the field without moving it, or return the rover to the
 command station, or return the rover to the start of that obstacle/mission as defined by 
 the judge in the field. However, the judge may require the rover to be moved for the
-safety of the team members or preservation of the course.
+safety of the team members or preservation of the course.  
 **3.d.v.** If the rover is returned to the command station, the operators may take part in the
 diagnostic and repair process, but runners and spectators may not communicate any
-details about the mission site to the operators.
+details about the mission site to the operators.  
 **3.d.vi.** When an intervention is called, the team members in the field may communicate directly
 with their team members operating the rover to facilitate repairs. **If teams wish to use
 radios for this purpose they must bring their own radios, but they may be used only
 during an intervention. All radio communication must be in English so judges can
-properly monitor conversations.
+properly monitor conversations.  
 **3.d.vii.** Teams will be **penalized 20% of the total points in that mission for every
 intervention**. The mission clock will continue to run during an intervention. Multiple
 intervention penalties in a single mission are additive: e.g. two interventions would
