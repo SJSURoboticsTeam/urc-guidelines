@@ -122,6 +122,7 @@ transferred to the judges without contamination.
 - Meaning of data collected with respect to the habitability potential, the geology of the
 site (past and present) and implications of the site being suitable for life.
 - Scientific knowledge of Mars based on responses to judges’ questions.  
+
 **1.b.xi.** The score for this task will be based on the Science Plan and the following components:
 - Thoroughness of the investigation of sites (panoramas, site selection, stratigraphic
 profile).
@@ -507,8 +508,8 @@ spectrum, automatic channel switching, frequency hopping, or other interference-
 protocols.
 ### 3.d. Interventions
 If a rover suffers a critical problem during a mission that requires direct team intervention (any
-action requiring touching of the rover), that intervention shall be subject to the following:
-**3.d.i.** A request for an intervention can only come from the team members operating the
+action requiring touching of the rover), that intervention shall be subject to the following:  
+**3.d.i.** **A request for an intervention can only come from the team members operating the
 rover, not any team members spectating in the field.** They may designate any number
 of team members who may go to repair or retrieve the rover (hereafter referred to as
 “runners”). Spectating team members may be asked to act as runners, and also rover
